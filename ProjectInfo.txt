@@ -1,0 +1,6 @@
+This is a part of training.
+
+Commited already without adding any line.
+
+This line is after the file is staged.
+
